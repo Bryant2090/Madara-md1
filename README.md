@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +MADARA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYANT+TECH;WELCOME+COME+TO+MY+WORLD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+MADARA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYANT+TECH;WELCOME+TO+MY+WORLD" alt="Typing SVG" /></a>
   </p>
     <img alt="Madara-MD" width="700" height="300" src="https://telegra.ph/file/8c00763a2653ddef7bff3.jpg">
 <p align="center">
