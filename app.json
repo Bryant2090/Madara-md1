@@ -1,9 +1,9 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"MADARA-MD",
+  "description":"An easy and simple WhatsApp bot developed by BRYANT TECH",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-  "repository":"https://github.com/franceking1/Flash-Md",
+  "logo":"https://telegra.ph/file/4432ccfc10b80cc059aef.png",
+  "repository":"https://github.com/BryantXtech1/Madara-md",
   "succes_url":"/",
   "stack":"container",
      "env":{
@@ -41,14 +41,14 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"MADARA-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/c1f76b7e19b1e278b8d7d.mp4",
       "required":false
 
      },
@@ -80,14 +80,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "Bryant tech"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254751284190"
+    "value": "233530729233"
   },
     "WARN_COUNT":
   {
