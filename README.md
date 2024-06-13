@@ -109,3 +109,6 @@ Enjoy the diverse features of the *MADARA-MD*  to enhance your Whatsapp more enj
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+## `OWNER` 
+<a href="https://github.com/BryantXtech1"><img src="https://github.com/BryantXtech1.png" width="250" height="250" alt="BRYANT TECH"/></a>
+  
