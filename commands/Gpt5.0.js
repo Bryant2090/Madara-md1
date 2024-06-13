@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 const handler = async (m, { conn, text, usedPrefix, command }) => {
   try {
     if (!text && !(m.quoted && m.quoted.text)) {
-      throw `*_Need query._*\n*_Example:_* _${usedPrefix + command} When did Jesus Christ die?_`;
+      throw `*_Need query._*\n*_Example:_* _${usedPrefix + command} Who is the owner of Madara-md?_`;
     }
 
     if (!text && m.quoted && m.quoted.text) {
