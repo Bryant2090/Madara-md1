@@ -22,7 +22,9 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/BryantXtech1/Madara-md) It***
 
-***2.`Get Session ID` by [`SCANING QR 1`](https://scan-flash-md.onrender.com) OR [`QR SCANNER 2`](https://king-france.vercel.app) OR [`PAIRING CODE 2`](https://flash-sessions.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR 1`](https://madara-md-8b42001e1b3f.herokuapp.com/) OR [`QR SCANNER 2`](https://madara-md-8b42001e1b3f.herokuapp.com/) OR [`PAIRING CODE 2`](https://madara-md-8b42001e1b3f.herokuapp.com/)***
+
+## WE WILL BE USING WASI TECH PAIRING CODE FOR NOW. I WILL FIX IT LATER
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
