@@ -68,16 +68,16 @@ france({ nomCom: "owner", categorie: "General", reaction: "💞" }, async (dest,
   }
 });
 
-france({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "developer", categorie: "General", reaction: "😏" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "France King", numero: "254757835036" },
-      { nom: "᚛FranceKing᚜", numero: "254750948696" },
+      { nom: "BryantXtech", numero: "94784192378" },
+      { nom: "᚛Bryant tech᚜", numero: "233530729233" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Hello 👋\n *Welcome to Flash-Md!*\n\n*✦━━◆CREATOR INFO◆━━✦*\n\n\n *◇NAME: _France King_*\n*◇AGE: 23*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV TEAM: _CHELSEA_*\n*◇INSTAGRAM: https://instagram.com/france.king1*\n*◇Twitter: https://twitter.com/france_king1*\n\n______________________________\n\n*💙KEEP USING FLASH-MD🤍*\n\n\n_The following are my contacts_:\n:";
+    let message = "Hello 👋\n *Welcome to Madara-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Bryant tech_*\n*◇AGE: 15*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YEEESSSSS ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV ANIME: _NARUTO_*\n*◇INSTAGRAM: https://instagram.com/Bryant_tech.1*\n*◇Repo: https://github.com/BryantXtech1/Madara-md*\n\n______________________________\n\n*❣️KEEP USING MADARA-MD❣️*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -114,6 +114,8 @@ france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpt
  
   repondre("look on pm sir ")
   await zk.sendMessage(auteurMessage,{text : `https://wa.me/254757835036`},{quoted :ms})
-
+repondre("look on pm sir ")
+  
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/233530729233?text=hello_MADARA_md_am_interested_in😂`},{quoted :ms})
 })
  
