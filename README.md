@@ -85,4 +85,25 @@ OR
 - [***France king***](https://github.com/Franceking1) For Code encryption. 
 - [***Bryan tech***](https://github.com/Bryanlover1) For Providing a Base of **MADARA-MD**
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
+
+<br/> <div align="center">
+[![github](https://github.com/github.png?size=100)](https://github.com/BryantXtech1)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=BryantXtech1&show_icons=true&theme=radical)](https://github.com/BryantXtech1)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## License
+
+The *MADARA-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+Enjoy the diverse features of the *MADARA-MD*  to enhance your Whatsapp more enjoyable
+☣Powered by BRYANT TECH 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
