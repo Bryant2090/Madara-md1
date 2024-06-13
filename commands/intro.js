@@ -50,22 +50,22 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/Kingjux/Venocyber-md' // Source URL
-const number = '255625774543'
-var name = ' VENOCYBER 𝕋𝔼ℂℍ'
+var surl = 'https://github.com/BryantXtech1/Madara-md' // Source URL
+const number = '233530729233'
+var name = ' BRYANT 𝕋𝔼ℂℍ'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg'
+var image = 'https://telegra.ph/file/ca817f376fc44c71b01b8.png'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 VENOCYBER 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
-│ Name      : VENOCYBER 
+│       「 BRYANT 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
+│ Name      : BRYANT 
 │ Place       : NJOMBE, TANZANIA
 │ Gender    :  𝐌𝐀𝐋𝐄
-│ Age          : 20
+│ Age          : 15
 │ education : 𝐁𝐒c IT 
 │ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
-│ Phone     : wa.me/255625774543
-│ Youtube   : youtube.com/@JASTINMTEWA-vn9pl
-│ GitHub    : https://github.com/Kingjux 
+│ Phone     : wa.me/233530729233
+│ Youtube   : youtube.com/@BryantXtech
+│ GitHub    : https://github.com/BryantXtech1
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
@@ -76,7 +76,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
  //---------------------------------------------------------------------------
  smd({
              pattern: "intro",
-             alias: ["venocyber","veno"],
+             alias: ["Bryant","tech"],
              desc: "Show intro of user",
              category: "fun",
              filename: __filename,
