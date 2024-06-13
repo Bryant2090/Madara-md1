@@ -16,22 +16,22 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
- //  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+ //  * @project_name : MADARA MD
+ //  * @author : BRYANT TECH
+ //  * @youtube : https://www.youtube.com/@BryantXtech
+//   * @description : MADARA MD BOT ,A Multi-functional whatsapp user bot.
 //*
 //* 
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
+//Instagram: https://www.youtube.com/@BryantXtech
+//Telegram: t.me/KingBryant
+//GitHub: @BryantXtech1
+//WhatsApp: +233530729233
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@BryantXtech
+//   * Created By Github: @BryantXtech1.
 //   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//   * © 2024 MADARA-MD.
 // ⛥┌┤
 // */
 
