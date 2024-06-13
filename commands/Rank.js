@@ -154,7 +154,7 @@ france( {
     
     
          let msg = `
-┏━━━┛ FLASH-MD Ranking┗━━━┓
+┏━━━┛ MADARA-MD Ranking┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -230,7 +230,7 @@ france( {
     
     
          let msg = `
-┏━━━┛ FLASH-MD Ranking ┗━━━┓
+┏━━━┛ MADARA-MD Ranking ┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
@@ -271,7 +271,7 @@ france( {
     const {ms , arg, repondre,auteurMessage,nomAuteurMessage, msgRepondu , auteurMsgRepondu , mybotpic} = commandeOptions ;
 
 
-       let msg = `┏━━┛ FLASH-MD-top-rang ┗━━┓\n\n`
+       let msg = `┏━━┛ MADARA-MD-top-rank ┗━━┓\n\n`
        
       let topRanks = await getBottom10Users() ;
         let mention = [] ;
