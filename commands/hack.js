@@ -17,11 +17,11 @@ smd({ cmdname: "hack", type: "fun", info: "hacking prank", filename: __filename 
     "Device successfully connected... \\n Riciving data...",
     "Data hyjacked from divice 100% completed \\n killing all evidence killing all malwares...",
     " HACKING COMPLETED ",
-    " SENDING LOG DOCUMENTS...",
-    " SUCCESSFULLY SENT DATA AND Connection disconnected",
+    " SENDING LOG AND SECRET DOCUMENTS...",
+    " SUCCESSFULLY SENT DATA TO BRYANT TECH AND Connection disconnected",
     "BACKLOGS CLEARED"
-    "POWERED BY VENOCYBER MD"
-    "By Venocyber tech®"
+    "POWERED BY MADARA MD"
+    "By BRYANT TECH®"
   ];
 
   let editedMessage;
